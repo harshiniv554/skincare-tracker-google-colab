@@ -22,7 +22,6 @@ class Mind:
     self.confidence = input()
 
   def affirm(self):
-    openai.api_key = 'enter-api-here'
 
     feeling = input("How do you see yourself today? ")
 
