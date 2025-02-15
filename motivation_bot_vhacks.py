@@ -22,7 +22,7 @@ class Mind:
     self.confidence = input()
 
   def affirm(self):
-    openai.api_key = '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'
+   # openai.api_key = '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'
 
     feeling = input("How do you see yourself today? ")
 
